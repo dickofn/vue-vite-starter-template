@@ -7,9 +7,10 @@
     {
       "files": ".eslintrc",
       "options": {
-        "parser":"jsonc",
+        "parser": "jsonc",
         "trailingComma": "none"
       }
     }
-  ]
+  ],
+  "htmlWhitespaceSensitivity": "ignore"
 }
